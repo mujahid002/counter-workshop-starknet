@@ -1,4 +1,5 @@
-# Starknet's Counter Workshop
+# Starknet Hyderabad Counter Workshop 
+Contract deployed at 0x230b24511d5fa1af9a6d427685ac39ab8ddd23b824f573e8bceb9c58b382d22 in Starknet Sepolia
 
 In this workshop, you will learn how to create a simple Starknet smart contract, implement public functions, and events, access external contracts, and use OpenZeppelin's Ownable contract.
 

@@ -3,6 +3,8 @@ Contract deployed at 0x230b24511d5fa1af9a6d427685ac39ab8ddd23b824f573e8bceb9c58b
 
 Voyager Explorer Link: https://sepolia.voyager.online/contract/0x0230b24511d5fa1af9a6d427685ac39ab8ddd23b824f573e8bceb9c58b382d22
 
+##
+
 In this workshop, you will learn how to create a simple Starknet smart contract, implement public functions, and events, access external contracts, and use OpenZeppelin's Ownable contract.
 
 After completing each step, run the associated script to verify it has been implemented correctly.
